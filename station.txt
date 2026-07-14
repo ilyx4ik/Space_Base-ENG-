@@ -1,0 +1,3 @@
+L Oasis_Cabin 30 15
+S BioLab_01 50 Botany
+P Solar_Array_Alpha 5 100
